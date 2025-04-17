@@ -1,15 +1,6 @@
-# 👨🏻‍💻 Kento Morita | Data Scientist & Business Analytics Enthusiast  
+## 👨🏻‍💻 Kento Morita | Data Scientist & Business Analytics Enthusiast  
 **M.S. Business Analytics @ UC Irvine | Machine Learning • NLP • BI • Forecasting**
 
----
-
-## 📌 About Me
-
-Hi there! I’m **Kento Morita**, a data scientist passionate about transforming complex data into clear insights and impactful strategies. I’m currently pursuing my Master’s in Business Analytics at UC Irvine, where I focus on machine learning, natural language processing, and business intelligence.
-
-With international experience across tech, pharma, luxury e-commerce, and edtech, I enjoy building smart models, automating workflows, and delivering analytics that drive real business value.
-
----
 
 ## 💼 Experience Snapshot
 
@@ -27,5 +18,3 @@ With international experience across tech, pharma, luxury e-commerce, and edtech
 
 - **📈 Data Scientist @ Irep (AdTech)**  
   Applied KNN clustering to identify customer segments, driving $15K in revenue from targeted campaigns.
-
----
