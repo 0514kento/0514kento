@@ -1,8 +1,8 @@
-## 👨🏻‍💻 Kento Morita | Data Scientist & Business Analytics Enthusiast  
+### 👨🏻‍💻 Kento Morita | Data Scientist & Business Analytics Enthusiast  
 **M.S. Business Analytics @ UC Irvine | Machine Learning • NLP • BI • Forecasting**
 
 
-### 💼 Experience Snapshot
+#### 💼 Experience Snapshot
 
 - **🎯 Student Data Scientist @ Trace3**  
   Developed a revenue forecasting model using Python and Excel, integrating scenario analysis and KPI tracking for better sales planning.
